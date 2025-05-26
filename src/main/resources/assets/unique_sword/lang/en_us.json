@@ -1,0 +1,6 @@
+{
+  "item.unique_sword.unbreakable_sword": "Unique Sword",
+  "item.unique_sword.unbreakable_sword.desc": "Epic sword given to the player on first join.",
+  "unique_sword.owner": "Owner: %s",
+  "unique_sword.sword": "Sword"
+}

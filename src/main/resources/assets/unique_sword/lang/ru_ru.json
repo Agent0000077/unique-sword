@@ -1,0 +1,6 @@
+{
+  "item.unique_sword.unbreakable_sword": "Уникальный меч",
+  "item.unique_sword.unbreakable_sword.desc": "Эпический меч, который получает игрок при первом входе.",
+  "unique_sword.owner": "Владелец: %s",
+  "unique_sword.sword": "Меч"
+}

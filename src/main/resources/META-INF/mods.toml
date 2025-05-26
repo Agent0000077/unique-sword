@@ -1,0 +1,21 @@
+modLoader = "javafml"
+loaderVersion = "[47,)"
+license = "All rights reserved"
+authors = "Agent00997"
+[[mods]]
+modId = "unique_sword"
+version = "1.0"
+displayName = "Unique Sword"
+description = '''Sword given to the player on first join.'''
+[[dependencies.unique_sword]]
+modId = "forge"
+mandatory = true
+versionRange = "[47,)"
+ordering = "NONE"
+side = "BOTH"
+[[dependencies.unique_sword]]
+modId = "minecraft"
+mandatory = true
+versionRange = "[1.20.1,1.21)"
+ordering = "NONE"
+side = "BOTH"
