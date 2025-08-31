@@ -19,5 +19,5 @@ The sword is automatically given to the player on first join.
 
 - [Modrinth](https://modrinth.com/mod/unique_sword)
 - [CurseForge](https://www.curseforge.com/minecraft/mc-mods/unique-sword)
-- [Minecraft Inside](In Develop)
+- [Minecraft Inside](https://minecraft-inside.ru/abyss/185351-unique-sword.html)
 - [GitHub](https://github.com/Agent0000077)
