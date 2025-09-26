@@ -29,6 +29,7 @@ public class UnbreakableSword extends SwordItem {
 
     @Override
     public boolean isDamageable(ItemStack stack) {
+        // Неразрушаемый, если isBreakable = false
         return ModConfig.IS_BREAKABLE.get();
     }
 

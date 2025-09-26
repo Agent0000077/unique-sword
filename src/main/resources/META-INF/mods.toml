@@ -4,7 +4,7 @@ license = "All rights reserved"
 authors = "Agent00997"
 [[mods]]
 modId = "unique_sword"
-version = "1.0"
+version = "1.1"
 displayName = "Unique Sword"
 description = '''Sword given to the player on first join.'''
 [[dependencies.unique_sword]]
